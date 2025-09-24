@@ -81,3 +81,5 @@ model = YOLO("yolo11n-cls.pt")
 results = model("test.jpg")
 results[0].show()
 ```
+
+[Link to Colab](https://colab.research.google.com/drive/1fhuWafPWxZRYVIc6quFb4DmIjpwtHNrM?usp=sharing) 
